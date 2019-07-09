@@ -1,1 +1,179 @@
-
+[
+    {
+        "company": "Amazon",
+        "productname": "Smart Plug",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart plug/switch",
+        "price": 24.99,
+        "releasedate": "2018-10-11T04:00:00.000Z",
+        "topfeatures": "Amazon Smart Plug works with Alexa to add voice control to any outlet.Schedule lights, fans, and appliances to turn on and off automatically, or control them remotely when you’re away.Simple to set up and use—plug in, open the Alexa app, and start using your voice.Compact design keeps your second outlet free.No smart home hub required—set up routines and schedules through the Alexa app. (requires wifi)",
+        "usecases": "Plug smart plug into outlet, plug lamp into smart plug, use voice to turn on/off lamp",
+        "linktoproductpage": "https://www.amazon.com/dp/B01MZEEFNX/ref=sd_allcat_ods_ha_aucc_sl",
+        "linktoimage": "Amazon-smart-plug.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Dot",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart speaker",
+        "price": 39.99,
+        "topfeatures": "Our most popular smart speaker - Now with a fabric design and improved speaker for richer and louder sound.\n Voice control your music - Stream songs from Amazon Music, Apple Music, Spotify, Sirius XM, and others. You can also listen to audiobooks from Audible.\n Bigger, better sound - Pair with a second Echo Dot (3rd gen) for rich, stereo sound. Fill your home with music with compatible Echo devices in different rooms.\n Ready to help - Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.\n Connect with others - Call almost anyone hands-free. Instantly drop in on other rooms in your home or make an announcement to every room with a compatible Echo device.\n Use another speaker - Connect to your own speakers over Bluetooth or with a 3.5 mm audio cable.\n Alexa has skills - With 50,000+ skills, Alexa is always getting smarter and adding new skills like tracking fitness, playing games, and more.\n Voice control your smart home - Turn on lights, adjust thermostats, lock doors, and more with compatible connected devices",
+        "usecases": "Speaker with voice-control assistant (play music, look up information, etc)",
+        "linktoproductpage": "https://www.amazon.com/All-new-Echo-Dot-3rd-Gen/dp/B0792KTHKJ?ref_=bl_dp_s_web_2528918011",
+        "linktoimage": "Amazon-echo-dot.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "FireTV Recast",
+        "productcategory": "Entertainment",
+        "producttype": "Smart DVR",
+        "price": 279.99,
+        "topfeatures": "Fire TV Recast is a DVR that lets you watch and record over-the-air TV at home with Fire TV or Echo Show, or on-the-go with a compatible mobile device—with no monthly fees.\n Watch and record live sports, local news, late night shows, and other can’t miss TV from channels available through an HD antenna (sold separately) like ABC, CBS, FOX, NBC, PBS, and The CW.\n With 4 tuners, you can record up to 4 shows at once. Plus, store up to 150 hours of HD programming.\n With a compatible Alexa-enabled device, you can use your voice to search for shows, open and control the channel guide, manage and schedule recordings, and help with other requests. Say things like “Alexa, open Channel Guide\" or “Alexa, record ‘Riverdale.’”\n Fire TV Recast delivers the most reliable video streams over Wi-Fi of any over-the-air DVR.",
+        "usecases": "Essentially a voice-controlled DVR; can watch recorded content on any device",
+        "linktoproductpage": "https://www.amazon.com/Fire-TV-Recast-over-the-air-DVR-1TB-150-hours/dp/B074J1GPB8?ref_=bl_dp_s_web_2528918011",
+        "linktoimage": "Amazon-firetv-recast.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Spot",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart display",
+        "price": 129.99,
+        "topfeatures": "Echo Spot is designed to fit anywhere in your home. Use 2nd generation far-field voice recognition to watch the news, see music lyrics, weather forecasts, to-do and shopping lists, browse and listen to Audible audiobooks, and more. All hands-free—just ask.\n Echo Spot connects to Alexa, a cloud-based voice service to play music, read the news, answer questions, set music alarms, control smart home, and more.\n Just ask to play a song, artist, or genre, and see lyrics with Amazon Music. Also, stream music from Apple Music, Spotify, Pandora, and other music services, or books from Audible.\n Use the built-in speaker or connect to speakers through Bluetooth or 3.5 mm stereo cable. With multi-room music, you can play music on your Echo devices in different rooms. Adjust the treble, mid, and bass levels with your voice.\n Ask Alexa to turn on your lights, show baby monitors and front door cameras, and lock your doors. Plus, control your thermostats, garage doors, sprinklers, and more.\n Call almost anyone hands-free, or make video calls to family and friends with Skype, the Alexa app, an Echo Spot, or Echo Show. Instantly connect to other Echo devices around your home.\n With tens of thousands of skills, Alexa is always getting smarter and adding new features. Just ask Alexa to control your TV, request an Uber, order a pizza, and more.",
+        "usecases": "Alarm clock with Alexa capabilities",
+        "linktoproductpage": "https://www.amazon.com/Echo-Spot-Smart-Display-Alexa/dp/B073SQYXTW?ref_=bl_dp_s_web_2528918011",
+        "linktoimage": "Amazon-echo-spot.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Show",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart display",
+        "price": 229.99,
+        "topfeatures": "Premium speakers with Dolby processing let you stream music and books in crisp, stereo sound. With a vibrant 10.1\" HD screen for watching videos, movies, and TV shows—in a new fabric design.\n Ask Alexa to see lyrics and album art with Amazon Music. See weather forecasts, calendars, to-do lists, and your favorite playlists.\n Watch award-winning movies and shows from Prime Video, music videos from Vevo, or live TV and sports with a Hulu subscription.\n Make video calls to anyone with Skype, the Alexa app, an Echo Spot, or Echo Show.\n Your new kitchen companion—watch recipe videos, set timers and alarms, and add items to your shopping list.\n Set up compatible Zigbee devices without the need for a separate hub. See your front door camera stream with 2-way audio and notifications.\n With eight microphones and far-field technology, Alexa can hear you even while music is playing.\n With over 50,000 skills and counting, Alexa is always getting smarter. Skills are like apps and let you do more with Alexa.",
+        "usecases": "Tablet with Alexa--control your smart home from this hub, as well as watch videos, make video calls, etc.",
+        "linktoproductpage": "https://www.amazon.com/All-new-Echo-Show-2nd-Gen/dp/B077SXWSRP?ref_=bl_dp_s_web_2528918011",
+        "linktoimage": "Amazon-echo-show.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Fire HD8",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart display",
+        "price": 79.99,
+        "topfeatures": "Vibrant 8\" HD display, a 1.3 GHz quad-core processor, 1.5 GB of RAM, and Dolby Audio. Up to 10 hours of mixed-use battery life (may vary depending on usage). 2x as durable as the iPad Mini 4.\n 16 or 32 GB of internal storage and a microSD slot for up to 400 GB of expandable storage\n Enjoy millions of movies, TV shows, songs, Kindle eBooks, apps and games - including Netflix, Facebook, HBO, Spotify and more\n Watch downloaded videos anywhere with a Prime membership, or with a Netflix, STARZ, or SHOWTIME subscription.\n Prime members get unlimited access to over a thousand books and magazines, millions of songs, and thousands of movies and TV episodes - at no additional cost\n Use Alexa hands-free mode to pause videos, play music, open apps, show sports scores, display the weather, and more—just ask\n With Show Mode you can transform your tablet to an immersive, full-screen Alexa experience optimized for visibility across the room\n Call or message almost anyone or make video calls to family and friends with compatible devices or the Alexa App",
+        "usecases": "Tablet with Alexa capabilities. Designed for videos, books, and web browsing rather than smart home control, but it seems that this would also be possible with the right apps",
+        "linktoproductpage": "https://www.amazon.com/All-New-Fire-Tablet-Display-Black/dp/B0794RHPZD?ref_=bl_dp_s_web_2528918011",
+        "linktoimage": "Amazon-fire-hd8.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Cloud Cam",
+        "productcategory": "Security",
+        "producttype": "Smart security/video camera",
+        "price": 119.99,
+        "topfeatures": "Stay connected 24/7 - Catch activities as they happen in 1080p Full HD. Watch, download, and share the last 24 hours of motion alert video clips for free.\n Notifications – Get notified when Cloud Cam sees activity. Check in anytime or watch motion clips on the Cloud Cam mobile app.\n See clearly in the dark - Night vision lets you detect what’s happening around the clock. Turn on/off night vision LEDs in the Cloud Cam App.\n Two-way audio - Check in with the family or tell your dog to stop barking.\n 30-day free trial of Cloud Cam Plans – Get Smart Alerts and advanced features like person and audio detection, Zones, and see up to 30 days of video history.\n Works with Alexa - Just ask Alexa to show your live feed on your Amazon Fire TV, Fire Tablet, Echo Show, or Echo Spot.\n Cloud Cam is always getting smarter with more advanced notifications, detection, and features. Just announced: get notified when Cloud Cam detects specific sounds: glass breaking, a baby crying, a dog barking, or a smoke/carbon monoxide alarm.\n For Amazon Key, purchase the Amazon Key Home Kit, which includes Cloud Cam (Key Edition). You need Cloud Cam (Key Edition) that features a Key Edition power cable to enable Amazon Key.",
+        "usecases": "Security camera for home entrances, sleeping babies, dogs, etc",
+        "linktoproductpage": "https://www.amazon.com/Introducing-Amazon-Cloud-Cam/dp/B01C4UY0JK",
+        "linktoimage": "Amazon-cloud-cam.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Plus",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart speaker",
+        "price": 149.99,
+        "topfeatures": "Echo Plus has a built-in Zigbee hub to easily setup and control your compatible smart home devices, and an improved sound for streaming music.\n Premium speakers powered by Dolby play 360° audio with crisp vocals and dynamic bass response. You can also use your voice to adjust equalizer settings or pair with a second Echo Plus (2nd gen) for stereo sound.\n Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, call almost anyone, and more.\n Set up your smart home without a separate hub. Ask Alexa to control compatible smart lights, switches, sensors, door locks, and more. Echo Plus also includes a built-in temperature sensor.\n Ask Alexa for a song, artist, or genre from Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, and more. With multi-room music, play music on compatible Echo devices in different rooms.\n Call almost anyone hands-free. Instantly drop in on other rooms in your home or make an announcement to every room with a compatible Echo device.\n With seven microphones, beamforming technology, and noise cancellation, Echo Plus hears you from any direction—even while music is playing.",
+        "usecases": "Hub for smart home devices, voice control/coordinate them",
+        "linktoproductpage": "https://www.amazon.com/All-new-Echo-Plus-2nd-built/dp/B0794W1SKP",
+        "linktoimage": "Amazon-echo-plus.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Fire TV Cube",
+        "productcategory": "Entertainment",
+        "producttype": "Smart speaker",
+        "price": 119.99,
+        "topfeatures": "Fire TV Cube is the first hands-free streaming media player with Alexa. From across the room, just ask Alexa to turn on the TV, dim the lights, and play what you want to watch.\n With far-field voice recognition, eight microphones, and beamforming technology, Fire TV Cube hears you from any direction. Enjoy hands-free voice control of content—search, play, pause, fast forward, and more. Plus control the power and volume on your TV, soundbar, and A/V receiver as well as change live cable or satellite channels with just your voice.\n Fire TV Cube has a built-in speaker that lets you check the weather, listen to the news, control compatible smart home devices, and more—even with the TV off. Fire TV Cube is always getting smarter with new Alexa skills and voice functionality.\n Experience true-to-life picture quality with access to vivid 4K Ultra HD up to 60 fps and HDR. Enjoy the audio clarity of Dolby Atmos on select Prime Video titles.\n Enjoy tens of thousands of channels, apps, and Alexa skills. Get over 500,000 movies and TV episodes from Netflix, Prime Video, Hulu, HBO, SHOWTIME, NBC, and more.\n Access YouTube, Facebook, Reddit, and more websites with Silk and Firefox browsers.\n An Amazon Prime membership unlocks thousands of movies and TV episodes including \"Thursday Night Football\" and Prime Originals like “The Big Sick” and “Sneaky Pete”.\n Launch and control content with the Alexa Voice Remote (2nd Gen). Watch favorites from Netflix, Prime Video, Hulu, STARZ, SHOWTIME, or CBS All Access, plus stream for free with Pluto TV, IMDb Freedive, and others.",
+        "usecases": "Like a cable box but for Amazon content",
+        "linktoproductpage": "https://www.amazon.com/Fire-TV-Cube-hands-free-with-Alexa-and-4K-Ultra-HD-and-All-New-Alexa-Voice-Remote/dp/B0791T9CV7",
+        "linktoimage": "Amazon-fire-cube.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo sub",
+        "productcategory": "Smart Displays & Smart Speakers",
+        "producttype": "Smart speaker",
+        "price": 129.99,
+        "topfeatures": "Echo Sub delivers down-firing, 100W deep bass sound through a 6\" woofer.\n Pair with one Echo or Echo Plus (sold separately) to enjoy dynamic music that fills the room.\n Pair with two of the same Echo devices for rich left/right stereo sound.\n Simple to set up and use—just plug in, open the Alexa app, and wirelessly connect to your Echo device(s) to control music with your voice.",
+        "usecases": "Subwoofer that can be paired with Echo devices",
+        "linktoproductpage": "https://www.amazon.com/Echo-Sub-Powerful-subwoofer-compatible/dp/B0798KPH5X",
+        "linktoimage": "Amazon-echo-sub.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo input",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart hub",
+        "price": 29.99,
+        "topfeatures": "Echo Input adds Alexa to an external speaker and connects via 3.5 mm audio cable or Bluetooth.\n Can hear you from across the room—even when music is playing.\n Stream Amazon Music, Apple Music, Spotify, Pandora, SiriusXM, and more on your favorite speaker.\n Just ask Alexa to play a song, read the news, or check the weather and traffic.\n Set alarms and timers, add items to your to-do list, and control compatible smart home devices.\n Calling and Drop In via Bluetooth is currently not supported.\n Alexa is always getting smarter and adding new skills like tracking fitness, playing games, and more.\n Slim, low-profile design fits almost anywhere.",
+        "usecases": "Connects Alexa to any speaker, giving it voice-control capability",
+        "linktoproductpage": "https://www.amazon.com/Echo-Input-Bring-Alexa-speaker/dp/B07BFRHZLB",
+        "linktoimage": "Amazon-echo-input.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "AmazonBasics Microwave",
+        "productcategory": "Large Appliances",
+        "producttype": "Smart kitchen gadget",
+        "price": 59.99,
+        "topfeatures": "Now it’s easier to defrost vegetables, make popcorn, cook potatoes, and reheat rice. With an Echo device (not included), quick-cook voice presets and a simplified keypad let you just ask Alexa to start microwaving.\n Automatically reorder popcorn when you run low and save 10% on popcorn orders—enabled by Amazon Dash Replenishment technology\n Compact size saves counter space, plus 10 power levels, a kitchen timer, a child lock, and a turntable.\n Alexa is always getting smarter and adding new presets.\n External dimensions (Width x Height x Depth): 17.3 in. x 10.1 in. x 14.1 in. ; Turntable (Diameter): 10 in. ; Maximum Popcorn bag size: 3 oz",
+        "usecases": "Ask alexa to cook something",
+        "linktoproductpage": "https://www.amazon.com/AmazonBasics-Microwave-Small-Works-Alexa/dp/B07894S727/ref=sr_1_1?crid=1SAE0GYD27BC7&keywords=amazon+basics+microwave&qid=1554407099&s=gateway&sprefix=amazon+basics+m%2Caps%2C150&sr=8-1",
+        "linktoimage": "Amazon-basics-microwave.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo wall clock",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart clock",
+        "price": 29.99,
+        "topfeatures": "Echo Wall Clock helps you stay organized and on time.\n Easy-to-read analog clock shows the time of day.\n Digital 60 LED display shows one, or multiple, timers set through a paired Echo device.\n Syncs time to a paired Echo device, including automatic adjustments for daylight saving time.\n Requires a compatible Echo device, including Echo, Echo Dot, Echo Show, Echo Plus, Echo Spot, or Echo Input.\n Just say, “Alexa, set a 12-minute timer,” and see it count down at a glance on Echo Wall Clock.\n Simple to set up and use—just say, \"Alexa, set up my Echo Wall Clock.”\n Smooth 10\" diameter white bezel clock. Includes mounting hardware and 4 AA batteries.",
+        "usecases": "Time and voice-controlled timers",
+        "linktoproductpage": "https://www.amazon.com/Introducing-Echo-Wall-Clock---An-Echo-companion-to-see-timers-at-a-glance./dp/B07FQDMKFT/ref=sr_1_63?qid=1554407724&s=amazon-devices&sr=1-63",
+        "linktoimage": "Amazon-wall-clock.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo buttons",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart button",
+        "price": 19.99,
+        "topfeatures": "Echo Buttons are an interactive way to play games and control smart home routines through your compatible Echo device.\n Choose from a catalog of 100+ compatible Alexa skills.\n Activate an Alexa smart home routine with the press of a button.\n Customize your own trivia game skill with Alexa Skill Blueprints.\n Easy setup with an Echo, Echo Dot, Echo Show, Echo Plus, or Echo Spot. Just ask, \"Alexa, setup my Echo Buttons\".\n Connect up to 4 buttons with compatible Echo devices using bluetooth\n Each Echo Button requires 2 AAA batteries. Includes 4 AAA batteries.",
+        "usecases": "Supplement to voice control for Alexa. Compose a routine series of actions for your smart home devices, then trigger this series with the push of the button.",
+        "linktoproductpage": "https://www.amazon.com/Echo-Buttons-Pack-gaming-companion/dp/B072C4KCQH/ref=sr_1_85?qid=1554409241&s=amazon-devices&sr=1-85",
+        "linktoimage": "Amazon-echo-buttons.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Connect",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart home phone",
+        "price": 34.99,
+        "topfeatures": "Connect your home phone to your compatible Alexa-enabled device to call any phone number, using just your voice.\n Echo Connect uses your existing home phone service (analog landline or VoIP) to make and receive calls (carrier charges may apply). You can control if Alexa dials a ‘1’ for local calls or not.\n Plug Echo Connect into your home phone jack, complete setup with the Alexa App or on alexa.amazon.com, and you’re ready to make and receive calls.\n Sync all your contacts from a smartphone or tablet. Don’t have an existing address book or mobile device? Use alexa.amazon.com to quickly add the contacts you need from any internet-connected PC or Mac.\n Call contacts and voice dial numbers hands-free. And navigate automated phone systems with your voice.\n Echo Connect will work with your compatible Alexa-enabled devices.",
+        "usecases": "Turns echo into voice-controlled speaker phone",
+        "linktoproductpage": "https://www.amazon.com/Echo-Connect-requires-compatible-Alexa-enabled/dp/B076ZRFP6Y/ref=sr_1_104?qid=1554409387&s=amazon-devices&sr=1-104",
+        "linktoimage": "Amazon-echo-connect.png"
+    },
+    {
+        "company": "Amazon",
+        "productname": "Echo Look",
+        "productcategory": "Small Appliances & Accessories",
+        "producttype": "Smart camera",
+        "price": 99.99,
+        "topfeatures": "Take head-to-toe photos and six-second videos of your outfit with the voice-activated camera\n Ask “Alexa, how do I look?” for smart, specific, and fun styling advice\n Compare outfits to find out which looks better and why with Style Check\n Freshen up your look with items recommended to go with clothes you already own\n Echo Look automatically organizes your wardrobe by weather, occasion, season, and more\n View your outfits from every angle, select your favorites, and share with friends",
+        "usecases": "Personal stylist--ask Alexa, \"How do I look?\" and receive fashion advice. Take photos of your outfits and catalog your style.",
+        "linktoproductpage": "https://www.amazon.com/Amazon-Echo-Look-Camera-Style-Assistant/dp/B0186JAEWK/ref=sr_1_110?qid=1554409387&s=amazon-devices&sr=1-110",
+        "linktoimage": "Amazon-echo-look.png"
+    }
+]
