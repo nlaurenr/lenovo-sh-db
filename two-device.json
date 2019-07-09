@@ -1,25 +1,25 @@
 [
   {
-      "company": "Amazon",
-      "productname": "Smart Plug",
-      "productcategory": "Small Appliances & Accessories",
-      "producttype": "Smart plug/switch",
-      "price": 24.99,
-      "releasedate": "2018-10-11T04:00:00.000Z",
-      "topfeatures": "Amazon Smart Plug works with Alexa to add voice control to any outlet.Schedule lights, fans, and appliances to turn on and off automatically, or control them remotely when you’re away.Simple to set up and use—plug in, open the Alexa app, and start using your voice.Compact design keeps your second outlet free.No smart home hub required—set up routines and schedules through the Alexa app. (requires wifi)",
-      "usecases": "Plug smart plug into outlet, plug lamp into smart plug, use voice to turn on/off lamp",
-      "linktoproductpage": "https://www.amazon.com/dp/B01MZEEFNX/ref=sd_allcat_ods_ha_aucc_sl",
-      "linktoimage": "Amazon-smart-plug.png"
+    "company": "Amazon",
+    "productname": "Smart Plug",
+    "productcategory": "Small Appliances & Accessories",
+    "producttype": "Smart plug/switch",
+    "price": 24.99,
+    "releasedate": "2018-10-11T04:00:00.000Z",
+    "topfeatures": "Amazon Smart Plug works with Alexa to add voice control to any outlet.Schedule lights, fans, and appliances to turn on and off automatically, or control them remotely when you’re away.Simple to set up and use—plug in, open the Alexa app, and start using your voice.Compact design keeps your second outlet free.No smart home hub required—set up routines and schedules through the Alexa app. (requires wifi)",
+    "usecases": "Plug smart plug into outlet, plug lamp into smart plug, use voice to turn on/off lamp",
+    "linktoproductpage": "https://www.amazon.com/dp/B01MZEEFNX/ref=sd_allcat_ods_ha_aucc_sl",
+    "linktoimage": "Amazon-smart-plug.png"
   },
   {
-      "company": "Amazon",
-      "productname": "Echo Dot",
-      "productcategory": "Smart Displays & Smart Speakers",
-      "producttype": "Smart speaker",
-      "price": 39.99,
-      "topfeatures": "Our most popular smart speaker - Now with a fabric design and improved speaker for richer and louder sound.\n Voice control your music - Stream songs from Amazon Music, Apple Music, Spotify, Sirius XM, and others. You can also listen to audiobooks from Audible.\n Bigger, better sound - Pair with a second Echo Dot (3rd gen) for rich, stereo sound. Fill your home with music with compatible Echo devices in different rooms.\n Ready to help - Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.\n Connect with others - Call almost anyone hands-free. Instantly drop in on other rooms in your home or make an announcement to every room with a compatible Echo device.\n Use another speaker - Connect to your own speakers over Bluetooth or with a 3.5 mm audio cable.\n Alexa has skills - With 50,000+ skills, Alexa is always getting smarter and adding new skills like tracking fitness, playing games, and more.\n Voice control your smart home - Turn on lights, adjust thermostats, lock doors, and more with compatible connected devices",
-      "usecases": "Speaker with voice-control assistant (play music, look up information, etc)",
-      "linktoproductpage": "https://www.amazon.com/All-new-Echo-Dot-3rd-Gen/dp/B0792KTHKJ?ref_=bl_dp_s_web_2528918011",
-      "linktoimage": "Amazon-echo-dot.png"
+    "company": "Amazon",
+    "productname": "Echo Dot",
+    "productcategory": "Smart Displays & Smart Speakers",
+    "producttype": "Smart speaker",
+    "price": 39.99,
+    "topfeatures": "Our most popular smart speaker - Now with a fabric design and improved speaker for richer and louder sound.\n Voice control your music - Stream songs from Amazon Music, Apple Music, Spotify, Sirius XM, and others. You can also listen to audiobooks from Audible.\n Bigger, better sound - Pair with a second Echo Dot (3rd gen) for rich, stereo sound. Fill your home with music with compatible Echo devices in different rooms.\n Ready to help - Ask Alexa to play music, answer questions, read the news, check the weather, set alarms, control compatible smart home devices, and more.\n Connect with others - Call almost anyone hands-free. Instantly drop in on other rooms in your home or make an announcement to every room with a compatible Echo device.\n Use another speaker - Connect to your own speakers over Bluetooth or with a 3.5 mm audio cable.\n Alexa has skills - With 50,000+ skills, Alexa is always getting smarter and adding new skills like tracking fitness, playing games, and more.\n Voice control your smart home - Turn on lights, adjust thermostats, lock doors, and more with compatible connected devices",
+    "usecases": "Speaker with voice-control assistant (play music, look up information, etc)",
+    "linktoproductpage": "https://www.amazon.com/All-new-Echo-Dot-3rd-Gen/dp/B0792KTHKJ?ref_=bl_dp_s_web_2528918011",
+    "linktoimage": "Amazon-echo-dot.png"
   }
 ]
